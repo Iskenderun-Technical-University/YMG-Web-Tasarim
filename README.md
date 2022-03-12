@@ -6,7 +6,7 @@ Projenin amacı UGBİD (Uluslararası Genç Bilim İnsanları Derneği) ile ilgi
 
 Peki bu web sayfasının içeriği tam olarak ne olacak?
 Örneğin eğitimler,konferanslar, yarışmalar(Uluslararası/Ulusal) gibi etkinlikler yapılmadan önce bunların vatandaşa sunulması.
-Mesela "Ekolojik Temelli Kuş Gözlem Kampı" adlı bir etkinlik yapılacağını düşünelim. Benim hazırladğım bu web sayfasında etkinlik yeri, etkinlik tarihi, kuşların nasıl yaşadığını, nasıl davrandıklarını, yaşama alanları, davranışlarını etkinlik gerçekleşmeden önce kısa bir ön bilgi mahiyetinde sunmak..
+Mesela "Ekolojik Temelli Kuş Gözlem Kampı" adlı bir etkinlik yapılacağını düşünelim. Benim hazırladığım bu web sayfasında etkinlik yeri, etkinlik tarihi, kuşların nasıl yaşadığını, nasıl davrandıklarını, yaşama alanları, davranışlarını etkinlik gerçekleşmeden önce kısa bir ön bilgi mahiyetinde sunmak..
 Bu konuya bağlı olarak örneğin "Ekoloji" hakkında kısa bilgiler vermeyi de düşünüyorum.
 
 Bu web sayfasını tasarlarken HTML, CSS, JavaScript, PHP, MYSQL, JQUERY, BOOTSTRAP kullanacağım.
