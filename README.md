@@ -28,7 +28,7 @@ PROJE GÖREV KONTROL LİSTESİ
 
 |GÖREV        | KALAN ZAMAN | DURUM | TAMAMLANDI MI        |
 |------------|---------------|----------------|------------------------------------|
-|TASARIM    | 5 GÜN    |   YAPIM AŞAMASINDA  | <ul><li>- [x] tamamlandı</li><li>- [] yapımda </li></ul>
-|ARAYÜZ    | 7 GÜN     |   YAPIM AŞAMASINDA  | <ul><li>- [x] tamamlandı</li><li>- [] yapımda </li></ul>
-|KOD YAZMA BAŞLANGIÇ  | 9 GÜN     |   YAPIM AŞAMASINDA  | <ul><li>- [x] tamamlandı</li><li>- [] yapımda </li></ul>
+|TASARIM    | 5 GÜN    |   YAPIM AŞAMASINDA  | <ul><li>- [x] tamamlandı</li><li>- [ ] yapımda </li></ul>
+|ARAYÜZ    | 7 GÜN     |   YAPIM AŞAMASINDA  | <ul><li>- [x] tamamlandı</li><li>- [ ] yapımda </li></ul>
+|KOD YAZMA BAŞLANGIÇ  | 9 GÜN     |   YAPIM AŞAMASINDA  | <ul><li>- [x] tamamlandı</li><li>- [ ] yapımda </li></ul>
 
